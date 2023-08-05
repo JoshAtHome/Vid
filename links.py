@@ -1,6 +1,5 @@
-
-
-
+!pip install pexels_api_py
+from pexelsapi.pexels import Pexels
 
 def links(number, word, format, ke):
    linkarr = []
