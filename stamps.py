@@ -5,7 +5,6 @@
 !pip install pexels_api_py
 !pip install pydub
 !pip install numpy
-!pip install -U textblob
 import requests
 import os
 import moviepy.editor as mp
