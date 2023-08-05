@@ -1,4 +1,4 @@
-pip install moviepy
+!pip3 install moviepy
 !pip install imageio-ffmpeg
 !pip3 install imageio==2.4.1
 !pip install --upgrade imageio-ffmpeg
